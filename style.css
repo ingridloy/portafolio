@@ -1071,6 +1071,33 @@ h1{
 	margin-left: 20px;
 	margin-right: 20px;
 }
+	.simple1, .simple2, .simple3, .simple4, .simple5, .simple6, .simple7{
+	height: 330px;
+}
+.haiku1, .haiku2, .haiku3, .haiku4, .haiku5, .haiku6, .haiku7{
+	height: 330px;
+}
+.newen1, .newen2, .newen3, .newen4, .newen5, .newen6, .newen7{
+	height: 330px;
+}
+.subito1, .subito2, .subito3, .subito4, .subito5, .subito6, .subito7{
+	height: 330px;
+}
+.grabado1, .grabado2, .grabado3, .grabado4, .grabado5, .grabado6, .grabado7{
+	height: 330px;
+}
+.analoga1, .analoga2, .analoga3, .analoga4, .analoga5, .analoga6, .analoga7{
+	height: 370px;
+}
+.paildad1, .paildad2, .paildad3, .paildad4, .paildad5, .paildad6, .paildad7{
+	height: 350px;
+}
+.montevideo1, .montevideo2, .montevideo3, .montevideo4, .montevideo5, .montevideo6, .montevideo7, .montevideo8{
+	height: 350px;
+}
+.ouro1, .ouro2, .ouro3, .ouro4, .ouro5, .ouro6, .ouro7, .ouro8{
+	height: 350px;
+	}
 }
 @media screen and (max-width: 1000px) and (min-width: 701px){
 .menuescritorio1, .menuescritorio{
